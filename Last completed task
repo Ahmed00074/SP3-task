@@ -52,21 +52,19 @@
 <body>
 
     <!-- Headings -->
-    <h1 style="color: darkblue; text-align: center;">Heading 1</h1>
-    <h2 style="color: darkgreen; text-align: center;">Heading 2</h2>
-    <h3 style="color: darkred; text-align: center;">Heading 3</h3>
-    <h4 style="color: purple; text-align: center;">Heading 4</h4>
-    <h5 style="color: teal; text-align: center;">Heading 5</h5>
-    <h6 style="color: gray; text-align: center;">Heading 6</h6>
+    <h1 style="color: darkblue; text-align: center;">Welcome</h1>
+    <h2 style="color: darkgreen; text-align: center;">This is my SP3 HTML Project</h2>
+    <h3 style="color: darkred; text-align: center;">Included all things I learned</h3>
 
+   
     <!-- Paragraph with text formatting -->
-    <p>This is a simple paragraph. You can <b>bold</b> text, <strong>strongly emphasize</strong> text, <i>italicize</i> text, or <em>emphasize</em> text.</p>
+    <p>This is a simple paragraph.<b>Bolded Parageaph</b> <i>Italicize Paragraph</i></p>
 
     <!-- Link -->
-    <p>Here is a <a href="https://www.google.com" style="color: blue;">link to Google.com</a>.</p>
+    <p>Here is a inserted ink i can simply can be clicked <a href="https://www.google.com" style="color: blue;">link to Google.com</a>.</p>
 
     <!-- Line break -->
-    <p>This is a sentence with a line break.<br>See, now this text is on a new line.</p>
+    <p>This is a sentence with a line break.<br>Used br to break the line to be able to write different line</p>
 
     <!-- Image -->
     <p>Here is an image:</p>
@@ -75,12 +73,11 @@
     <!-- Preformatted text -->
     <pre style="background-color: #f4f4f4; padding: 10px; border-radius: 5px;">
     This is preformatted text.
-    It preserves whitespace
-    and line breaks.
+    I can save code and other type of text by using this
     </pre>
 
     <!-- Special text formatting -->
-    <p>You can <mark>highlight</mark> text, show <small>smaller text</small>, or display <del>deleted text</del> and <ins>inserted text</ins>.</p>
+    <p> <mark>Highlight text Used to highlight cretain paragraph </mark><del>deleted text</del> and <ins>inserted text</ins>.</p>
 
     <!-- Subscript and superscript -->
     <p>Water is H<sub>2</sub>O and Einstein's famous equation is E = mc<sup>2</sup>.</p>
@@ -94,17 +91,17 @@
             <th>Grade</th>
         </tr>
         <tr>
-            <td>John Doe</td>
+            <td>Rahim</td>
             <td>16</td>
             <td>A</td>
         </tr>
         <tr>
-            <td>Jane Smith</td>
+            <td>Karim</td>
             <td>17</td>
             <td>B+</td>
         </tr>
         <tr>
-            <td>Alex Johnson</td>
+            <td>Polok</td>
             <td>15</td>
             <td>A-</td>
         </tr>
